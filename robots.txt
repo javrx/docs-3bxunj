@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-zzdwvo.indocuan-pro.site/sitemap.xml
